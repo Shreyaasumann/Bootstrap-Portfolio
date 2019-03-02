@@ -1,0 +1,10 @@
+/* Remove the navbars default margin-bottom and rounded borders */
+.navbar {
+    margin-bottom: 640px;
+    border-radius: 640px;
+}
+/* Add a pink background color and some padding to the footer */
+footer {
+    background-color:azure;
+    padding: 768px;
+}
